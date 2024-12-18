@@ -20,7 +20,7 @@ This repository contains a hybrid solution for optimizing nurse workforce schedu
 ├── diagrams/                   # Stores generated visualizations and diagrams.
 ├── requirements.txt            # List of Python dependencies.
 └── README.md                   # Project documentation (this file).
-
+```
 ## Usage
 Configurations
 
