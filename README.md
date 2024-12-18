@@ -21,18 +21,17 @@ This repository contains a hybrid solution for optimizing nurse workforce schedu
 ├── requirements.txt            # List of Python dependencies.
 └── README.md                   # Project documentation (this file).
 ```
+
 ## Usage
 Configurations
 
 Modify the parameters in the main.py file to customize the optimization process:
-
     Problem Dimension: Number of nurses to schedule.
     Population Size: Number of individuals in the GA population.
     Generations: Maximum number of GA iterations.
     Bounds: Range of search space for scheduling variables.
 
 Output
-
     Optimized nurse schedules.
     Visualizations saved in the results/ directory:
         Fitness convergence plot.
